@@ -12,6 +12,5 @@ i tried to make this project as a company website .so , i have written much cont
 it will look like a live website because i took this project seriously and wanted to make as awesome website.
 i have given my best. open and see.
 it is  designed for mobile layout also.
-i have upoaded a zip file of our website . so , unzip it after downloading to see my website and source code of website.
-THANK YOU!       
+
          Avinash kumar.
